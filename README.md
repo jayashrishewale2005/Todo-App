@@ -7,7 +7,6 @@ This is a full-stack Todo Application developed using Vanilla JavaScript, Node.j
 - Edit Todo
 - Delete Todo
 - Mark Todo as Complete
-- Empty State Handling
 
 ## Tech Stack
 - Frontend: HTML, CSS, Vanilla JavaScript
