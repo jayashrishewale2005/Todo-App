@@ -1,27 +1,22 @@
-# Todo App (Vanilla JavaScript)
+# Todo App
 
-This is a full-stack Todo Application developed using Vanilla JavaScript, Node.js, Express.js, and MongoDB as part of my internship project.
+A full-stack Todo application built using Node.js, Express, MongoDB and Vanilla JavaScript.
 
 ## Features
-- Add Todo
-- Edit Todo
-- Delete Todo
-- Mark Todo as Complete
+- Add new tasks
+- Edit tasks
+- Delete tasks
+- Mark tasks as complete
 
 ## Tech Stack
-- Frontend: HTML, CSS, Vanilla JavaScript
-- Backend: Node.js, Express.js
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js, Express
 - Database: MongoDB
 
-## Project Setup Instructions
-
-### Backend Setup
-Note: node_modules folder is excluded.
-
-Run the following commands inside the backend folder:
-
-npm install  
-node index.js
-
-### Frontend Setup
-Open the frontend folder and run index.html in the browser.
+## How to Run
+1. Install dependencies  
+   npm install
+2. Start backend server  
+   node index.js
+3. Open frontend in browser  
+   index.html
